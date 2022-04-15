@@ -1,0 +1,12 @@
+computer management:
+run: compmgmt.msc
+
+protocol for mssqlserver: tcp/ip enabled
+
+sql server services:
+sql server browser: start
+
+control panel:
+window firewall defender click advance setting:
+inbound rules: set port to 1433:
+outbound rules: set port to 1433:
